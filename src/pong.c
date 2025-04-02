@@ -1,5 +1,4 @@
 #include <stdio.h>
-// #include <ncurses.h>
 // настройки для игры
 #define WIDTH 80
 #define HEIGHT 25
